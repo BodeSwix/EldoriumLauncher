@@ -1,7 +1,7 @@
 {
     "name": "Eldorium-Launcher",
     "preductname": "Eldorium Launcher",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Launcher Minecraft Pour Eldorium",
     "main": "src/app.js",
     "author": "Bode",
